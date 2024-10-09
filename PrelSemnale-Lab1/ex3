@@ -1,0 +1,7 @@
+a)   2000 esantioane/sec -> 1 sec/2000 -> 0.0005 secunde
+
+b) 1 byte = 8 biti
+o ora -> 3600 sec
+2000 * 4 biti -> 8000 biti -> 1000 bytes/sec
+
+3600 * 1000 = 3.600.000
