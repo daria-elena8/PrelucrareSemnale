@@ -34,12 +34,37 @@ plt.savefig("ex1b.png")
 plt.show()
 
 # model AR -- c)
-p = 40
-model = AutoReg(serie, lags=p).fit()
-predict = model.predict(start=p, end=N-1)
+
+# p = 40
+# model = AutoReg(serie, lags=p).fit()
+# predict = model.predict(start=p, end=N-1)
+#
+# plt.figure()
+# plt.plot(t[p:], predict)
+# plt.grid()
+# plt.savefig("ex1c.png")
+# plt.show()
+
+p = 10
+
+# construire matrice X (val trecute) si Y ( val actuale )
+X = np.zeros((N - p, p))
+y = serie[p:]
+
+for i in range(p):
+    X[:, i] = serie[p - i - 1:N - i - 1]
+
+# calculare coef prin metoda celor mai mici patrate
+phi = np.linalg.inv(X.T @ X) @ X.T @ y
+
+# generare predictii
+y_pred = X @ phi
+
+# refacere serie completa
+predict = np.concatenate([serie[:p], y_pred])
 
 plt.figure()
-plt.plot(t[p:], predict)
+plt.plot(t, predict)
 plt.grid()
 plt.savefig("ex1c.png")
 plt.show()
