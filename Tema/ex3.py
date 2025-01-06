@@ -11,9 +11,8 @@ def process_block(block, q_down):
     x_jpeg = idctn(y_jpeg, norm='ortho')  # transformata inversa DCT
     return x_jpeg
 
-# Prag MSE impus de utilizator
 mseImpus = float(input("Introduceți pragul MSE dorit: "))
-dif = 5.0  # diferenta maxima tolerata
+dif = 2.0  # diferenta maxima tolerata
 q_down = 64
 
 
@@ -50,7 +49,7 @@ ax[1].imshow(X_jpeg, cmap=plt.cm.gray)
 
 fig.tight_layout()
 fig.show()
-fig.savefig("ex1.png")
+fig.savefig("ex3.png")
 
 plt.imsave('ex3original.png', X, cmap=plt.cm.gray)
 plt.imsave('ex3compressed.png', X_jpeg, cmap=plt.cm.gray)
