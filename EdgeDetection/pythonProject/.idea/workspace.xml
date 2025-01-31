@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1bba0a0d-12e4-407a-b02f-fba727969c8a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/sobel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Laborator6/ex3.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Laborator6/ex3.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Laborator6/semnal_netezit.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Laborator6/semnal_netezit.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Laborator8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Laborator8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrelSemnale-Lab1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrelSemnale-Lab1/.idea/PrelSemnale-Lab1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrelSemnale-Lab1/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrelSemnale-Lab1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrelSemnale-Lab1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrelSemnale-Lab1/TablaSah.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrelSemnale-Lab1/ex1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrelSemnale-Lab1/ex1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrelSemnale-Lab1/ex1AB.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrelSemnale-Lab1/ex1C.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrelSemnale-Lab1/ex2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrelSemnale-Lab1/ex2A.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrelSemnale-Lab1/ex2B.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrelSemnale-Lab1/ex2C.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrelSemnale-Lab1/ex2E.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrelSemnale-Lab1/ex2E.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrelSemnale-Lab1/ex2F.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrelSemnale-Lab1/ex2Sawtooth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrelSemnale-Lab1/ex2Square.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrelSemnale-Lab1/ex3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrelSemnale-Lab1/sawtooth.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrelSemnale-Lab2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrelSemnale-Lab2/.idea/PrelSemnale-Lab2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrelSemnale-Lab2/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrelSemnale-Lab2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrelSemnale-Lab2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrelSemnale-Lab2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrelSemnale-Lab2/GhidLab.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrelSemnale-Lab2/ex1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrelSemnale-Lab2/ex2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrelSemnale-Lab2/ex2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrelSemnale-Lab2/ex2B.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrelSemnale-Lab2/ex2Zgomot.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrelSemnale-Lab2/ex3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrelSemnale-Lab2/ex3a.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrelSemnale-Lab2/ex4.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrelSemnale-Lab2/ex4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrelSemnale-Lab2/ex5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrelSemnale-Lab2/ex6.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrelSemnale-Lab2/ex6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrelSemnale-Lab2/ex7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrelSemnale-Lab2/ex7a.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrelSemnale-Lab2/ex7ab.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrelSemnale-Lab2/ex7b.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrelSemnale-Lab2/nume.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrelSemnale-Lab2/numee.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrelSemnale-Lab2/try1.pdf" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2sG1flbHkIAGzAotOfzqVzSF4Lg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/dariatache/Desktop/PrelucrareSemnale/EdgeDetection/pythonProject",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23339.19" />
+        <option value="bundled-python-sdk-0029f7779945-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23339.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1bba0a0d-12e4-407a-b02f-fba727969c8a" name="Changes" comment="" />
+      <created>1738067202861</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738067202861</updated>
+      <workItem from="1738067204238" duration="255000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

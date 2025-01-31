@@ -19,7 +19,7 @@ def apply_canny(img_path, low_threshold, high_threshold):
 
 
 # Test the function
-image_path = 'food.jpeg'
+image_path = 'triunghi.png'
 start = time.time()
 original, canny_edges = apply_canny(image_path, 50, 150)
 end = time.time()
@@ -36,7 +36,7 @@ ax[1].set_title("Imaginea folosind Canny")
 ax[1].axis('off')
 
 plt.tight_layout()
-plt.savefig("foodoriginalVScanny.jpeg")
+plt.savefig("triunghiCanny.png")
 plt.show()
 
 
